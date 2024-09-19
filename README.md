@@ -4,6 +4,10 @@
 **aahmed11-wtcc/aahmed11-wtcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+#Arham Ahmed arhamahmed139@gmail.com
+#Github account made for CTI110 at WTCC
+#This is my first repository made
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
